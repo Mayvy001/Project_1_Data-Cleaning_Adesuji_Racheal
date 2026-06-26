@@ -45,4 +45,4 @@ The objective of this project was to improve data quality and prepare the datase
 Data cleaning is a critical step in the data analysis process, as the quality of insights depends on the quality of the underlying data. Through this project, the dataset was transformed from its raw state into a clean, consistent, and reliable format. The cleaned dataset provided a strong foundation for exploratory data analysis, SQL querying, dashboard development, and data-driven decision-making.
 
 
-Author: Adesuji Racheal_DecodeLabs_Intern
+# Author: Adesuji Racheal_DecodeLabs_Intern
